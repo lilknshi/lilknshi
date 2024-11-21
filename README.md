@@ -12,7 +12,7 @@
 
  I typically dont dedicate much time to coding
 
- Instead , I focus on bringing my ideas to life < creating whatever is needed along the way
+ Instead , I focus on bringing my ideas to life , creating whatever is needed along the way
 
  I also have a deep pession for japan and its culture
  
