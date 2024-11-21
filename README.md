@@ -1,16 +1,21 @@
-## Hi there 👋
+<img align="left" src="pic/jow.jpg" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width="320" />
 
-<!--
-**lilknshi/lilknshi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ Name : **knshi** / **かなしい**
 
-Here are some ideas to get you started:
+ Age : **16**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ Field of Study : **cyber security**
+
+ learning : **C** , **C++** , **Python** , **CEH**
+
+ Languages : **persian** , **English** 
+
+ I typically dont dedicate much time to coding
+
+ Instead , I focus on bringing my ideas to life < creating whatever is needed along the way
+
+ I also have a deep pession for japan and its culture
+ 
+<hr>
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=lilknshi&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
